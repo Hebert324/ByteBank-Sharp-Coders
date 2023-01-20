@@ -17,13 +17,13 @@ Nosso usuário irá cometer erros e solicitar operaçõs potencialmente inválid
 
 ## Envio do vídeo
 
-Envie um vídeo de até **2 minutos**, sem a necessidade de edição, porém demonstrando o funcionamento das regras de negócio solicitadas.
+[Link do meu Vídeo mostrando o processo para a realização da entrega do vídeo](https://www.youtube.com/watch?v=lrTl6SbzwZo)
 
-Mais instruções sobre o envio para o youtube estarão em vídeo complementar.
+[Link do meu Vídeo mostrando o projeto funcionando](https://youtu.be/6OuZPphKjzc)
 
 ## Entrega da etapa
 
-Os últimos commits e a entrega do link para o vídeo devem ser feitos até sexta 06/01/22.
+Já realizada!
 
 -----
 
